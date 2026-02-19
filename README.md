@@ -55,4 +55,3 @@ The dataset contains some pre-modeled helper fields for dashboarding:
 - `CF_attrition label`
 - `CF_current Employee`
 - `CF_age band`
-
