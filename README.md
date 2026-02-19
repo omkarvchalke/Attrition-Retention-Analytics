@@ -56,14 +56,3 @@ The dataset contains some pre-modeled helper fields for dashboarding:
 - `CF_current Employee`
 - `CF_age band`
 
-## How to use
-### Option A — View online
-Open the Tableau Public link above and interact with filters/tooltips to explore attrition by segment.
-
-### Option B — Use locally in Tableau
-1. Download this repository
-2. Open Tableau (Desktop or Public)
-3. Connect to `HR_Tableau_Data.xlsx`
-4. Recreate/extend the dashboard using the same dimensions and measures
-
-## Repository structure (suggested)
